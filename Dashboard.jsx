@@ -1,11 +1,11 @@
 import React from 'react';
 import { Box, Grid } from '@mui/material';
-import Sidebar from '../components/Sidebar';
-import Header from '../components/Header';
-import StatsCard from '../components/StatsCard';
-import OverviewChart from '../components/OverviewChart';
-import PatientTable from '../components/PatientTable';
-import SchedulePanel from '../components/SchedulePanel'; 
+import Sidebar from './Sidebar';
+import Header from './Header';
+import StatsCard from './StatsCard';
+import OverviewChart from './OverviewChart';
+import PatientTable from './PatientTable';
+import SchedulePanel from './SchedulePanel'; 
 import { CalendarMonth, GroupAdd, AttachMoney } from '@mui/icons-material';
 
 
